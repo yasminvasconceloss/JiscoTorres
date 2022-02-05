@@ -1,6 +1,6 @@
 ## Olá, me chamo João Francisco Torres e sejam bem-vindes à minha página no GitHub! Espero que desfrutem dos meus repositórios. (; 
 
-- 🌱 Aprendendo GO.
+- 🌱 Aprendendo GOLANG.
 - 📫 torresjoaofrancisco@gmail.com
 
 <div align="center">
