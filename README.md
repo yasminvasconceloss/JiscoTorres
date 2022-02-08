@@ -1,4 +1,4 @@
-## Olá, me chamo João Francisco Torres e sejam bem-vindes à minha página no GitHub! Espero que desfrutem dos meus repositórios. (; 
+## Olá, me chamo João Francisco Torres e sejam bem-vindos à minha página no GitHub! Espero que desfrutem dos meus repositórios. (; 
 
 - 🌱 Aprendendo GOlang.
 - 📫 torresjoaofrancisco@gmail.com
