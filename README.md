@@ -1,20 +1,19 @@
 ## Olá, me chamo João Francisco Torres e sejam bem-vindos à minha página no GitHub! Espero que desfrutem dos meus repositórios. (; 
 
-
-- 📫 torresjoaofrancisco@gmail.com  <p align=left><img align="right" alt="mario-gif" height="105" width="105" src="https://c.tenor.com/PJCc9C5UQVAAAAAC/mario-ok.gif"> </p>
-
+<p>
 <div align="center">
   <a href="https://github.com/JiscoTorres">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JiscoTorres&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
- </div> 
+ </div> </p>
   
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- 
-</div>
+ <p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" width="30" height="30" />
+</div></p>
   
  &nbsp;
   <div align="center"> 
@@ -25,7 +24,7 @@
  
  </div>
   
- <div>
+ <div align="center">
    
   ![Snake animation](https://github.com/JiscoTorres/JiscoTorres/blob/output/github-contribution-grid-snake.svg)
  
