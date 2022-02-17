@@ -1,7 +1,7 @@
 ## Olá, me chamo João Francisco Torres e sejam bem-vindos à minha página no GitHub! Espero que desfrutem dos meus repositórios. (; 
 
 - 🌱 Aprendendo GOlang.
-- 📫 torresjoaofrancisco@gmail.com
+- 📫 torresjoaofrancisco@gmail.com  <p align=left><img align="right" alt="mario-gif" height="105" width="105" src="https://c.tenor.com/PJCc9C5UQVAAAAAC/mario-ok.gif"> </p>
 
 <div align="center">
   <a href="https://github.com/JiscoTorres">
